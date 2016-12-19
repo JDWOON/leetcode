@@ -1,3 +1,5 @@
 # leetcode
 
-공부용
+[https://leetcode.com/](https://leetcode.com/)
+
+For study
