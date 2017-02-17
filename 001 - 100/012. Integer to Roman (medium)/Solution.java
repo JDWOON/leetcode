@@ -55,7 +55,7 @@ public class Solution {
                 break;
         }
         
-        switch((num%10)){
+        switch(num%10){
             case 1: p+="I";
                 break;
             case 2: p+="II";
